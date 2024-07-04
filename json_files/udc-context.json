@@ -13,6 +13,8 @@
                 "user-first-name": "schema:Text",
                 "user-middle-name": "schema:Text",
                 "user-last-name": "schema:Text",
+                "user-phone-number": "schema:Text",
+                "user-email": "schema:Text",
                 "user-date-of-birth": "schema:Text",
                 "user-gender": "schema:Text",
                 "user-martial-status": "schema:Text",
